@@ -20,7 +20,7 @@ body {
 }
 
 .hero-main {
-    background-image: url(/images/bg.png);
+    background-image: url(/images/background.png);
     background-repeat: no-repeat;
     background-size: 55%;
     background-position: 80%;
